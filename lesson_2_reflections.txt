@@ -14,6 +14,7 @@ organized? How would branches help?
 - experiments, building different versions of your product.
 
 How do the diagrams help you visualize the branch structure?
+- trace commits, figure out how to jump around and not get lost.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
