@@ -15,3 +15,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - using some kind of cloud file share like dropbox. adding / auto syncing would be easier.
   Tracking changes, diffs etc would be harder
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When you do not have access to edit master on github or want someone to review and approve the merge
